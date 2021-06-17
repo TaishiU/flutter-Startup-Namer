@@ -1,6 +1,10 @@
 # startup_namer
 
-A new Flutter project.
+
+![5E5307EB-6376-40BA-A4FA-69F6DDC8AC5E_1_201_a](https://user-images.githubusercontent.com/73986840/122313281-e3bbc880-cf50-11eb-8616-30f66969638a.jpeg)
+
+## 参考
+【公式ドキュメント】https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
 
 ## Getting Started
 
